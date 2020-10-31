@@ -157,7 +157,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HYYUGTEH
 
 [Document8]
-DocumentPath=Input.SchDoc
+DocumentPath=Connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -172,6 +172,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CCEEPFJJ
+
+[Document9]
+DocumentPath=Digital_Input.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CJPKRQTB
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for SensorHub\Design Rule Check - SensorHub_V1_2.html
@@ -324,7 +341,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP Universal Printing PCL 6
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
