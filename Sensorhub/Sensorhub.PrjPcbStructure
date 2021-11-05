@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=analog filterung.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=analog filterung.SchDoc|FileName=Connector.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=analog filterung.SchDoc|FileName=Digital_Input.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=analog filterung.SchDoc|FileName=main.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=analog filterung.SchDoc|FileName=TYPK.SchDoc|SheetNumber=5
