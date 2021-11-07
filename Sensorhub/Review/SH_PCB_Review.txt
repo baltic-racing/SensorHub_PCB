@@ -1,0 +1,8 @@
+Review SH PCB 07.11.2021
+
+Allgemein:
+- Projekt zeigt fehlende Datei (Pcb) an. Bitte überprüfen.
+- Widerstandssymbole nicht einheitlich. Bitte anpassen.
+- Schreibfehler "Foult LEd" sollte "Fault LED" heißen
+- VCC_1, VCC_2, ... usw. ist unnötig. Für einen Buss bitte auch nur einen Buss Namen. In diesem Fall kann alles gelöscht werden und einfach 5V benutzt werden. Für GND gilt das Gleiche.
+- GND Symbole sind unterschiedlich. Im Team wird immer das mit nur einem Strich benutzt.
