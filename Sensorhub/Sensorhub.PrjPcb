@@ -25,12 +25,14 @@ NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=1
 AutoCrossReferences=0
+NewIndexingOfSheetSymbols=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
+IsVirtualBomDocumentRemoved=1
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -182,65 +184,22 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=.\gerbers\JLC_GERBERS\Sensorhub_PCB.DRR
+[Document9]
+DocumentPath=Table_for_Analog_In.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=.\gerbers\JLC_GERBERS\Sensorhub_PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=.\gerbers\JLC_GERBERS\Sensorhub_PCB.G1
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=.\gerbers\JLC_GERBERS\Sensorhub_PCB.G2
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=.\gerbers\JLC_GERBERS\Sensorhub_PCB.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=.\gerbers\JLC_GERBERS\Sensorhub_PCB.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=.\gerbers\JLC_GERBERS\Sensorhub_PCB.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=.\gerbers\JLC_GERBERS\Sensorhub_PCB.GM42
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=.\gerbers\JLC_GERBERS\Sensorhub_PCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=.\gerbers\JLC_GERBERS\Sensorhub_PCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=.\gerbers\JLC_GERBERS\Sensorhub_PCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=.\gerbers\JLC_GERBERS\Sensorhub_PCB.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=.\gerbers\JLC_GERBERS\Sensorhub_PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=.\gerbers\JLC_GERBERS\Sensorhub_PCB.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=.\gerbers\JLC_GERBERS\Sensorhub_PCB.TXT
-DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QUHIWLBF
 
 [Configuration1]
 Name=Sources
@@ -361,7 +320,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=An OneNote 16 senden
+TargetPrinter=Microsoft PCL6 Class Driver
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1122,6 +1081,7 @@ Type122=2
 Type123=1
 Type124=1
 Type125=1
+Type126=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
